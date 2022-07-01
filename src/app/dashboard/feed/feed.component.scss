@@ -1,4 +1,12 @@
 .container {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
+}
+
+app-profile-overview {
+   margin-right: 2rem;
+}
+
+app-feed-suggestion {
+  margin-left: 2rem;
 }

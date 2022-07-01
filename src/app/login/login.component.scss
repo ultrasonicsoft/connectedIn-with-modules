@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+mat-card {
+  width: 30rem;
+  max-width: 50rem;
+  text-align: center;
+
+  .center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    
+  }
+}

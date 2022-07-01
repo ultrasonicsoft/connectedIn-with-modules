@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { FeedSuggestionComponent } from './feed-suggestion/feed-suggestion.component';
+import { FeedSuggestionComponent } from './feed-suggestion.component';
 
 
 
